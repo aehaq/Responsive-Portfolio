@@ -7,7 +7,7 @@ Learn to make a website mobile responsive.
 # Images
 ![About](assets/images/screenshots/about-me.PNG)
 ![Portfolio](assets/images/screenshots/contact.PNG)
-![Contact](assets/images/screenshots/portfloio.PNG)
+![Contact](assets/images/screenshots/portfolio.PNG)
 
 # Technology Used
 - html
